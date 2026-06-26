@@ -1,0 +1,1 @@
+GradeAI is an Agentic AI-powered Performance Management System that automates student evaluation, AI feedback generation, PDF report creation, academic analytics, and email communication through an interactive Streamlit dashboard.
